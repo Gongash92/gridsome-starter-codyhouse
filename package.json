@@ -1,0 +1,16 @@
+{
+  "name": "gridsome-starter",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "codyhouse-framework": "^2.8.9",
+    "gridsome": "^0.7.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.1",
+    "style-resources-loader": "^1.4.1"
+  }
+}
